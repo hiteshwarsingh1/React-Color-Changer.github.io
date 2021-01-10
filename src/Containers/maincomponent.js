@@ -8,7 +8,7 @@ class Main extends Component{
     
     render(){
         return(
-        <div style={{backgroundColor:"#62C1CD"}}>
+        <div >
             <Tp/>
         </div>
         );

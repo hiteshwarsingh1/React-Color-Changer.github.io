@@ -24,8 +24,8 @@ class Tp extends Component{
 
         
         return (
-            <div className="App">
-                <h1 > React Color Picker</h1>
+            <div className="App textColor">
+                <h2 > React Color Picker</h2>
                 <div className="area" style={{backgroundColor:this.state.color}}>
                     
                 </div>
